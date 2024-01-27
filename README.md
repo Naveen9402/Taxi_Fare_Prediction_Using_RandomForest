@@ -23,10 +23,6 @@ In this project, we will use a dataset containing information about taxi rides a
 
 We welcome contributions! Please read `CONTRIBUTING.md` for details on how to contribute to this project.
 
-## License 📄
-
-This project is licensed under the terms of the MIT license. See `LICENSE.md` for more details.
-
 ## Contact 📧
 
 If you have any questions or feedback, feel free to reach out. We'd love to hear from you!
